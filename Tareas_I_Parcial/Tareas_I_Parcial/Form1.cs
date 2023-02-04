@@ -23,7 +23,7 @@ namespace Tareas_I_Parcial
 
             ParImpar(numero);
             PositivoNegativo(numero);
-
+            
             MessageBox.Show($"El Número Ingresado {numero} es: {ParImpar(numero)} y es {PositivoNegativo(numero)} ");
         }
 
